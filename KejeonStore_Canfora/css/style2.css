@@ -1,0 +1,59 @@
+
+#navbarNavDropdown {
+    display: flex;
+    justify-content: flex-end;
+} 
+
+#carrito{
+    margin-top: 11vb;
+    margin-bottom: 5vb;
+}
+#fin{
+    margin-bottom: 100%;
+}
+
+#a{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0;
+    background-color: rgb(254, 194, 108); 
+}
+
+#logo{
+    height: 8vb;
+    width: auto;
+    display: flex;
+    margin-right: 2vb;
+    border-radius: 50%;
+}
+  
+#STORE{
+   font-size: 3.7vb;
+   font-family: 'Space Grotesk', sans-serif;
+}
+
+
+.btn-custom.aa{
+    color:black;
+    font-family: 'Space Grotesk', sans-serif;
+    background-color:  rgb(253, 233, 169);
+}
+
+#mi{
+    margin-right: 3vb;
+}
+
+.Mensaje{
+    margin-top: 9vb;
+    color: rgb(216, 151, 71);
+    font-size: 12vb;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+#fotocarrito{
+    margin-top: -2vb;
+    width: 35vb;
+    height: auto;
+}
